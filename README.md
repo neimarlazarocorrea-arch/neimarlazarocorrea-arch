@@ -26,22 +26,22 @@ Sou Técnico em Eletrotécnica, Eletricista de Manutenção no setor automotivo 
 | Engenharia | rastreabilidade, testes, Git, GitHub Actions, segurança e melhoria contínua |
 | Operação | confiabilidade, microparadas, tempos de ciclo, manutenção e gestão visual |
 
-## Projetos industriais em preparação
+## Projetos industriais
 
-### PIO — Plataforma Inteligente Operacional
-Arquitetura de referência para coleta, validação, armazenamento, processamento e visualização de dados industriais.
+### [PIO — Plataforma Inteligente Operacional](https://github.com/neimarlazarocorrea-arch/pio-industrial-intelligence-platform)
+Arquitetura modular de referência que separa fontes sintéticas, Collector independente, Operação & Analytics e aplicações demonstrativas para transformar dados em informação operacional rastreável.
 
-**Status público:** documentação e demonstrações com dados sintéticos em preparação.
+**Status público:** publicação inicial concluída, com documentação arquitetural, governança, validação automatizada e dados exclusivamente sintéticos.
 
 ### Industrial Microstop Monitor
 Monitor genérico para detectar e analisar microparadas em estações e transportadores simulados, com SQLite, histórico e dashboard local.
 
-**Status público:** protótipo demonstrativo em preparação.
+**Status público:** protótipo demonstrativo independente; publicação reproduzível em preparação.
 
 ### Industrial Hourly Production Dashboard
 Dashboard operacional para produção horária, metas, acumulados, eficiência e cenários sintéticos de perda e recuperação.
 
-**Status público:** protótipo demonstrativo em preparação.
+**Status público:** protótipo demonstrativo independente; publicação reproduzível em preparação.
 
 ## Princípios de engenharia
 
